@@ -1,0 +1,9 @@
+{
+    "user_requests": [
+    "What is the distance between los angeles and new york?",
+    "What is the closest city to latitude 34.0 and longitude -118.0?",
+    "What is the weather like in the closest city to latitude 40.0 and longitude -75.0 on 2025-03-14?",
+    "Suggest the best route between Chicago and Los Angeles, and calculate the distance for the same route",
+    "What is the best route between Houston and Chicago"
+    ]
+}
