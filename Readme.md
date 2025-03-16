@@ -1,7 +1,7 @@
-# REACT Agentic Pattern Demo
+# ReAct Agentic Pattern Demo
 
 
-A demonstration of the **REACT** (Reason + Act) agentic pattern using OpenAI's API for complex query operations. This agent intelligently formulates plans, executes actions, and observes results to complete tasks.
+A demonstration of the **ReAct** (Reason + Act) agentic pattern using OpenAI's API for complex query operations. This agent intelligently formulates plans, executes actions, and observes results to complete tasks.
 
 ## 📋 Table of Contents
 
@@ -16,7 +16,7 @@ A demonstration of the **REACT** (Reason + Act) agentic pattern using OpenAI's A
 
 ## ✨ Features
 
-- Implements the **REACT** pattern (Reason, Act, Observe)
+- Implements the **ReAct** pattern (Reason, Act, Observe)
 - Performs SQL operations via specialized Tool calling
 - Processes user requests from configurable JSON file
 - Handles complex multi-step reasoning tasks
