@@ -10,7 +10,7 @@ from utils.helper_functions import get_args
 from config.system_prompt import REACT_SYSTEM_PROMPT_TEMPLATE
 from utils.error_handler import exception_log_message
 from utils.logger import setup_logger
-from utils.tool_setup import get_tools, create_sys_prompt
+from tools.tool_setup import get_tools, create_sys_prompt
 
 # Create a logger specific to this module
 logger = setup_logger('main')

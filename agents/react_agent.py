@@ -7,7 +7,6 @@ from utils.enums import Role
 from utils.logger import setup_logger
 from config.output_format import response_format, Step
 from utils.error_handler import exception_log_message
-
 # Create a logger specific to this module
 logger = setup_logger('REACT')
 
